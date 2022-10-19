@@ -1,0 +1,30 @@
+Pavlyuchenko Artem, IPZ-21/1
+LAB2
+========================================
+TASK1
+Lower Quartile = 62.75
+Upper Quartile = 93.75
+Percantile 90 = 95
+========================================
+TASK2
+Mean deviation = 294.96
+Standard deviation = 17.17
+========================================
+TASK3
+y = 0.2x + 80.0
+y average = 95
+y variance = 11.8
+y standard deviation = 3.43
+========================================
+TASK4
+Stem and Leaf diagram: 
+4 | 0 
+6 | 2 5 6 
+7 | 0 0 
+8 | 4 
+9 | 0 5 
+10 | 0 
+Key: 4|0 means 40
+========================================
+TASK5
+Boxplot
