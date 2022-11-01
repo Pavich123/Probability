@@ -1,0 +1,16 @@
+Pavlyuchenko Artem, IPZ-21/1
+LAB3
+==============================================
+TASK1
+Scatter plot
+==============================================
+TASK2
+Center of gravity: (3.89,35.0)
+Covariation: 23.06
+==============================================
+TASK3
+Regression equation:
+y = 9.94*x-3.67
+==============================================
+TASK4
+Correlation coefficient: 0.981
